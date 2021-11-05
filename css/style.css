@@ -1,0 +1,157 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    background: linear-gradient(180deg, #000000 0%, rgba(14, 14, 28, 0.77046) 71.05%, rgba(17, 16, 33, 0.0001) 100%) !important;
+}
+ul{
+    display: flex;
+    margin-left: 300px;
+}
+li{
+    list-style-type: none;
+    padding: 15px;
+    color: black;
+    font-size: 20px;
+}
+span{
+    color: red;
+}
+img{
+    width:1456px;
+    height:705px;
+    opacity: 1;
+}
+h5{
+    margin-right: 800px;
+}
+p{
+    margin-right: 800px;
+}
+button{
+    margin-right: 800px;
+    background-color: red;
+    color: white;
+    border: none;
+}
+ul1 li{
+    margin-left: 150px;
+    color: white;
+}
+.btn{
+    background-color: red;
+    color: white;
+    border: none;
+    margin-left: 80px;
+}
+.container img{
+   width: 130px;
+    height: 50px;
+}
+body{
+background-color: #000F26;
+    cursor: pointer;
+}
+.container1{
+    width: 1200px;
+    margin:100px auto;
+}
+span{
+    color: black;
+}
+.row{
+    display: flex;
+}
+.col{
+    width: 30%;
+}
+span1{
+    padding: 15px;
+    color: yellow;
+}
+.container1 button{
+    background-color: red;
+    color: white;
+}
+.col1 img{
+    width: 1000px;
+    height: 120px;
+    margin-left: 250px;
+    margin-top: 40px;
+}
+.container2{
+    width: 1600px;
+    margin: auto;
+}
+.col2 h1{
+    margin-top: 40px;
+    margin-left: 70px;
+    font-size: 30px;
+    color: white;
+}
+.col2 img {
+    padding-top: 60px;
+    padding-left: 70px;
+    width: 300px;
+    height: 300px;
+}
+section img{
+    margin-top: 100px;
+    margin-left: 45px;
+}
+section1 img{
+    width: 1000px;
+    height: 120px;
+    margin-left: 250px;
+    margin-top: 40px;
+}
+section2 img {
+    margin-top: 70px;
+    margin-left: 70px;
+    width: 1400px;
+    height: 400px;
+}
+section img{
+   width: 15%;
+    height: 300px;
+}
+sectonm img{
+    margin-top: 10px;
+    width: 20%;
+    height: 50px;
+    opacity: 1;
+}
+.text img{
+    margin-top: 100px;
+    margin-left: 100px;
+    width: 15%;
+    height: 30px;
+}
+.text span{
+    color: red;
+}
+.text p{
+    margin-left: 100px;
+    font-size: 30px;
+    color: white;
+}
+.text2 img{
+    margin-left: 60px;
+    width: 4%;
+    height: 20px;
+}
+.text button{
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: red;
+    color: white;
+    margin-left: 1200px;
+    border-radius: 5px;
+}
+
+
+
+
+
